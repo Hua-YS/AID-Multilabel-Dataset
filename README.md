@@ -9,6 +9,6 @@ If you find this dataset is useful, please kindly cite the following:
   author={Hua, Yuansheng and Mou, Lichao and Zhu, Xiao Xiang},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   pages={1 - 15}
-  year={2019},
+  year={2020},
 }
 ```
