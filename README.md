@@ -8,7 +8,6 @@ If you find this dataset is useful, please kindly cite the following:
   title={Relation Network for Multi-label Aerial Image Classification},
   author={Hua, Yuansheng and Mou, Lichao and Zhu, Xiao Xiang},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
-  pages={1 - 15}
-  year={2020},
+  year={DOI:10.1109/TGRS.2019.2963364}
 }
 ```
